@@ -1,0 +1,44 @@
+.colorgris{
+    background-color:#353a40;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    font-size: 100%;
+}
+.bgimg{
+    filter: brightness(50%);
+    margin-top: -150px;
+    margin-bottom: -60px;
+
+}
+.titulos{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 10px;
+}
+.pie{
+    background:linear-gradient(to right,#1a3544,#1c5372);
+    height: 70px;
+    padding-top:0.5cm;
+    font-size: 80%;
+}
+.textocar{
+    text-align: right;
+    padding-bottom: 8%;
+    padding-left: 40%;
+    padding-top: 10%;    
+}
+.letrascartas{
+    font-size:x-small;
+}
+.textoform{
+    text-align: center;
+    font-size: 80%;
+    margin-bottom: 10px;
+}
+.puntitos{
+    text-decoration: underline;
+    text-decoration-style: dotted ;
+}
+.textocard{
+    font-size: 80%;
+}
