@@ -17,7 +17,8 @@
 }
 .pie{
     background:linear-gradient(to right,#1a3544,#1c5372);
-    height: 70px;
+    width: auto;
+    height: auto;
     padding-top:0.5cm;
     font-size: 80%;
 }
