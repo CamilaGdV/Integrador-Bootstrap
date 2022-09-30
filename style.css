@@ -1,3 +1,4 @@
+
 .colorgris{
     background-color:#353a40;
     padding-left: 1cm;
@@ -8,8 +9,7 @@
     filter: brightness(50%);
     padding-top: -150px;
     padding-bottom: -60px;
-    width:80em;
-    height: 37em;
+
 }
 .titulos{
     text-transform: uppercase;
@@ -18,13 +18,12 @@
 }
 .pie{
     background:linear-gradient(to right,#1a3544,#1c5372);
-    width: auto;
-    height: auto;
-    padding-top:0.5cm;
+    padding-top:10px;
+    padding-bottom: 10px;
     font-size: 80%;
 }
 .textocar{
-    text-align: right;
+    text-align-last: end;
     padding-bottom: 8%;
     padding-left: 40%;
     padding-top: 10%;    
@@ -43,4 +42,7 @@
 }
 .textocard{
     font-size: 80%;
+}
+.botonescar{
+    max-height: 50px;
 }
